@@ -14,7 +14,6 @@ face_recognition (using pip install face-recognition)
 
 os module
 Steps to follow
-● Download my project zip file and extract it.
 ● Mention the date in the csv file on which date you want to take the attendance.
 ● Run the semproj6.py file in terminal (python3 semproj6.py)
 
